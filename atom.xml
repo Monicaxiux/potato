@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://monicaxiux.github.io/potatozi.github.io/atom.xml" rel="self"/>
+  <link href="https://monicaxiux.github.io/potato/atom.xml" rel="self"/>
   
-  <link href="https://monicaxiux.github.io/potatozi.github.io/"/>
+  <link href="https://monicaxiux.github.io/potato/"/>
   <updated>2025-05-08T01:38:06.918Z</updated>
-  <id>https://monicaxiux.github.io/potatozi.github.io/</id>
+  <id>https://monicaxiux.github.io/potato/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://monicaxiux.github.io/potatozi.github.io/2025/05/08/hello-world/"/>
-    <id>https://monicaxiux.github.io/potatozi.github.io/2025/05/08/hello-world/</id>
+    <link href="https://monicaxiux.github.io/potato/2025/05/08/hello-world/"/>
+    <id>https://monicaxiux.github.io/potato/2025/05/08/hello-world/</id>
     <published>2025-05-08T01:38:06.918Z</published>
     <updated>2025-05-08T01:38:06.918Z</updated>
     
